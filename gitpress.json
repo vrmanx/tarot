@@ -2,10 +2,12 @@
     "docs":
     {
         "关于": "README.md",
-        "C#": "posts/csharp",
+        "塔罗": "posts/tarot",
         "Git": "posts/git",
         "Node": "posts/node",
-        "NLP": "posts/python",
+        "C#": "posts/csharp",
+        "地理信息系统": "posts/gis",
+        "自然语言理解": "posts/nlp",
     },
     "perpage": 5,
     "types":
