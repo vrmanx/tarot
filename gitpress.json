@@ -9,7 +9,8 @@
         "地理信息系统": "posts/gis",
         "自然语言理解": "posts/nlp",
     },
-    "perpage": 5,
+    "perpage": 10,
+    "template": "greyshade", // default, slate, tactile, phase, pithiness, greyshade
     "types":
     {
         "\\.(md||markdown)$": "markdown", 
