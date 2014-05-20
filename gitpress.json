@@ -1,0 +1,32 @@
+{
+    "docs":
+    {
+        "关于": "README.md",
+        "C#": "posts/csharp",
+        "Git": "posts/git",
+        "Node": "posts/node",
+        "NLP": "posts/python",
+    },
+    "perpage": 5,
+    "types":
+    {
+        "\\.(md||markdown)$": "markdown", 
+        "\\.(js||css||json)$": "code",
+        "\\.html?$": "html",
+        ".*": "text"                
+    },
+    "title": "晴月浩新雪",
+    "comment": "on",
+    "domain_alias":
+    [
+        "blog.silverna.org"
+    ],
+    "friends":
+    [
+        {
+            "name": "JerryQu的小站",
+            "title": "屈屈的博客",
+            "url": "http://imququ.com"                  
+        },
+    ] 
+}
