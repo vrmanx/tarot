@@ -2,13 +2,17 @@
     "docs":
     {
         "关于": "README.md",
+        "涅槃": "posts/nirvana",
+        "童趣": "README.md",
         "塔罗": "posts/tarot",
         "Git": "posts/git",
-        "Node": "posts/node",
         "C#": "posts/csharp",
+        "Node": "posts/node",
         "地理信息系统": "posts/gis",
         "自然语言理解": "posts/nlp",
+        "其它": "posts/other",
     },
+    "order": "~number",
     "perpage": 10,
     "template": "greyshade", // default, slate, tactile, phase, pithiness, greyshade
     "types":
