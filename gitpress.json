@@ -3,7 +3,7 @@
     {
         "关于": "README.md",
         "涅槃": "posts/nirvana",
-        "童趣": "README.md",
+        "童趣": "posts/children",
         "塔罗": "posts/tarot",
         "Git": "posts/git",
         "C#": "posts/csharp",
@@ -22,7 +22,7 @@
         "\\.html?$": "html",
         ".*": "text"                
     },
-    "title": "晴月浩新雪",
+    "title": "晴月浩雪站",
     "comment": "on",
     "domain_alias":
     [
