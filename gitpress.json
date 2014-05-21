@@ -1,0 +1,39 @@
+{
+    "docs":
+    {
+        "关于": "README.md",
+        "涅槃": "posts/nirvana",
+        "童趣": "posts/children",
+        "棱镜": "posts/prism",
+        "塔罗": "posts/tarot",
+        "Git": "posts/git",
+        "C#": "posts/csharp",
+        "Node": "posts/node",
+        "NLP": "posts/nlp",
+        "其它": "posts/other",
+    },
+    "order": "~number",
+    "perpage": 10,
+    "template": "greyshade", // default, slate, tactile, phase, pithiness, greyshade
+    "types":
+    {
+        "\\.(md||markdown)$": "markdown", 
+        "\\.(js||css||json)$": "code",
+        "\\.html?$": "html",
+        ".*": "text"                
+    },
+    "title": "晴月浩雪站",
+    "comment": "on",
+    "domain_alias":
+    [
+        "tarot.vrmanx.gitpress.org"
+    ],
+    "friends":
+    [
+        {
+            "name": "JerryQu的小站",
+            "title": "屈屈的博客",
+            "url": "http://imququ.com"                  
+        },
+    ] 
+}
