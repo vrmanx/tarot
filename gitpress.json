@@ -1,10 +1,10 @@
-{
+﻿{
     "docs":
     {
         "关于": "README.md",
-        "涅槃": "posts/nirvana",
-        "童趣": "posts/child",
         "棱镜": "posts/prism",
+        "童趣": "posts/child",
+        "涅槃": "posts/nirvana",
         "塔罗": "posts/tarot",
         "Git": "posts/git",
         "C#": "posts/csharp",
@@ -23,6 +23,7 @@
         ".*": "text"                
     },
     "title": "晴月浩雪站",
+	"description" : "以个人原创性博文为主，分享技术、人生感悟之种种...",
     "comment": "on",
     "domain_alias":
     [
